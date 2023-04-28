@@ -1,0 +1,36 @@
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#btn {
+  margin: 5px;  
+  background-color: pink;
+  color: purple;
+  border-color: purple;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.input-group-sm { 
+   width : 30%;
+   border-color: purple;
+}
+
+h1 {
+    color : purple;
+    font-family: 'Times New Roman', Times, serif; 
+}
+p{
+    color : purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.card {
+
+    background-color: pink;
+}
+
